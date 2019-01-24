@@ -1,0 +1,61 @@
+h1{
+    color: white;
+    text-align: center;
+
+}
+h2{
+
+    color: white;
+    text-align: center;
+
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: grey;
+    height: 100px;
+    width: 100%;
+    
+}
+nav{
+    background-color: black;
+    height: 100px;
+    width: 100%;
+
+}
+section{
+    background-color: blue;
+    height: 300px;
+    width: 100%;
+    
+    
+}
+main{
+    height: 500px;
+    width: 80%;
+    float: left; 
+
+
+}
+article{
+    background-color: darkblue;
+    height: 200px;
+    width: 100%;
+    
+}
+
+aside{
+    background-color: dimgrey;
+    height: 500px;
+    width: 20%;
+    float: left;
+    
+  }
+footer{
+    background-color:lightslategrey;
+    height: 80px;
+    width: 100%;
+    clear: both;
+}
